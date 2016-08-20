@@ -1,0 +1,57 @@
+/*style.css*/
+*{
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+    padding:0
+
+}
+h1#blue{
+    color:#00f
+}
+p {
+    height: 100px;
+    text-indent: 2em;
+}
+pre{
+    font-family: "Agency FB";
+    height: 300px;
+    width:300px;
+}
+.greenyellow{
+    color:greenyellow;
+}
+#test{
+    text-decoration:underline;
+}
+.height{
+    height:10px
+}
+.font{
+    font-family: "Academy Engraved LET";
+}
+.red{
+    color:red;
+}
+.green{
+    color:green;
+}
+.black{
+    color:black
+}
+h1.green{
+    color:firebrick;
+}
+#font{
+    font-style: italic;
+}
+h1#font{
+    color:yellow;
+}
+h1,p,pre{
+    font-style: oblique;
+}
+h2 .green{
+    background: pink;
+}
